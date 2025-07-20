@@ -46,11 +46,11 @@ The goal was to classify sheep images into **7 distinct breeds** using deep lear
 
 ## Visualizations
 
-### 🔹 Class Distribution  
-<img src="images/Class_Distribution.png" width="600"/>
-
 ### 🔹 Sample Images per Class  
 <img src="images/Sample_Sheep.png" width="600"/>
+
+### 🔹 Class Distribution  
+<img src="images/Class_Distribution.png" width="600"/>
 
 ### 🔹 Validation F1 Score per Fold  
 <img src="images/f1_per_fold.png" width="500"/>
