@@ -1,6 +1,6 @@
 # Sheep Breed Classification – DAAL 2025 Challenge
 
-This project was developed for the **Eid Al-Adha 2025: Sheep Classification Challenge**, hosted on **Kaggle** by **DAAL**.  
+This project was developed for the **Eid Al-Adha 2025: Sheep Classification Challenge**, hosted on **Kaggle** by **DAL**.  
 The goal is to classify sheep images into **7 distinct breeds** using a deep learning pipeline with **EfficientNetV2-S**.
 
 ---
@@ -75,7 +75,7 @@ sheep_classification/
 
 ## Acknowledgments
 
-- Thanks to **DAAL** for organizing the competition.
+- Thanks to **DAL** for organizing the competition.
 - Pretrained weights from `torchvision.models`.
 - Implemented using **PyTorch**, **NumPy**, **Seaborn**, and **scikit-learn**.
 
